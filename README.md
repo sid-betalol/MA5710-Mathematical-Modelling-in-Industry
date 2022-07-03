@@ -22,5 +22,10 @@ Course Session: July-November 2021
 - For more details, check the [code](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment3_classification/code) and [report](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment3_classification/report).
 
 ### Assignment-4 : Supervised Learning- Linear Regression
-- Implemented Straight Curve Fitting, Maximum Likelihood Estimate, Maximum a Posteriori
+- Implemented Straight Curve Fitting, Maximum Likelihood Estimate, Maximum a Posteriori Estimate
 - For more details, check out the [code](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment4_regression/code).
+
+### Assignment-5 : Two-species predator-prey system
+- Solution given by the [Lotka–Volterra Model](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations) and its variations.
+- Also studied the equilibirum points, their quality(stability), and trajectory of the [Lorenz-Attractor System](https://en.wikipedia.org/wiki/Lorenz_system).
+- For more details, check out the [code](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment5_predator_prey_system/code) and [report](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment5_predator_prey_system/report).
