@@ -31,7 +31,7 @@ Course Session: July-November 2021
 - For more details, check out the [code](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment5_predator_prey_system/code) and [report](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment5_predator_prey_system/report).
 
 ### Assignment-6: Diffusion Filters
-- Undertook a study comparing the performance of linear diffusion, Perona-Malik diffusion, and Catte et al. diffusion on the camerman image.
+- Undertook a study comparing the performance of [linear diffusion](https://web.cs.hacettepe.edu.tr/~erkut/bil717.s12/w03-lineardif.pdf), [Perona-Malik diffusion](https://en.wikipedia.org/wiki/Anisotropic_diffusion), and [Catte et al. diffusion](https://www.jstor.org/stable/2158083) on the [camerman image](https://www.researchgate.net/figure/The-cameraman-test-image_fig1_308058508).
 - Studied [PSNR values](https://www.researchgate.net/figure/Peak-signal-to-noise-ratio-PSNR-dB-values-for-restoring-corrupted-Cameraman-image_fig4_271212942), [stopping criterion](https://www.researchgate.net/publication/283298889_Stopping_criterion_for_anisotropic_image_diffusion).
 - For more details, check the [code](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment6_diffusion/code) and [report](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment6_diffusion/report).
 
