@@ -21,6 +21,6 @@ Course Session: July-November 2021
 - Concepts: [Gini Index](https://www.upgrad.com/blog/gini-index-for-decision-trees/), [Gini Impurity and Perfect Fit](https://www.analyticsvidhya.com/blog/2021/03/how-to-select-best-split-in-decision-trees-gini-impurity/), [Pruning](https://en.wikipedia.org/wiki/Decision_tree_pruning#:~:text=Pruning%20is%20a%20data%20compression,and%20redundant%20to%20classify%20instances.).
 - For more details, check the [code](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment3_classification/code) and [report](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment3_classification/report).
 
-### Assignment-3 : Supervised Learning- Linear Regression
+### Assignment-4 : Supervised Learning- Linear Regression
 - Implemented Straight Curve Fitting, Maximum Likelihood Estimate, Maximum a Posteriori
 - For more details, check out the [code](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment4_regression/code).
