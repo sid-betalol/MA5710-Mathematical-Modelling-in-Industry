@@ -12,7 +12,7 @@ Course Session: July-November 2021
 - For more details, check the [code](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment1_traffic_dynamics_micro/code) and [report](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment1_traffic_dynamics_micro/report).
 
 ### Assignment-2 : Traffic Dyanmics- A Macro Model
-- Concepts: Characteristic Base Curve Equations, Rarefaction Waves, Green Light Problem, Internsectiing Characteristics Problem,Shock Waves. 
+- Concepts: Characteristic Base Curve Equations, Rarefaction Waves, Green Light Problem, Intersectiing Characteristics Problem,Shock Waves. 
 - Numerical Schemes: [Upwind Method](https://en.wikipedia.org/wiki/Upwind_scheme#:~:text=In%20computational%20physics%2C%20the%20term,derivatives%20in%20a%20flow%20field.), [Lax–Friedrichs method](https://en.wikipedia.org/wiki/Lax%E2%80%93Friedrichs_method), [Richtmyer Two-Step Lax-Wendroff Method](https://en.wikipedia.org/wiki/Lax%E2%80%93Wendroff_method#Richtmyer_method), [MacCormack method](https://en.wikipedia.org/wiki/MacCormack_method#:~:text=In%20computational%20fluid%20dynamics%2C%20the,MacCormack%20in%201969.), [Godunov's method](https://en.wikipedia.org/wiki/Godunov%27s_theorem)
 - For more details, check the [code](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment2_traffic_dynamics_macro/code) and [report](https://github.com/sid-betalol/MA5710-Mathematical-Modelling-in-Industry/tree/main/assignment2_traffic_dynamics_macro/report).
 
